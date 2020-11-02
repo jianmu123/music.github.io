@@ -89,17 +89,17 @@ html,body{
     
     position: absolute;
     top: 70px;
-   left: 203px;
+   left: 194px;
 }
 .content_toolbar span:nth-child(2) {
     position: absolute;
     top: 70px;
-    left: 600px;
+    left: 591px;
 }
 .content_toolbar span:nth-child(3) {
     position: absolute;
     top: 70px;
-   left: 758px;
+   left: 750px;
 }
 /*.content_toolbar span:nth-child(4) i{
     background-position: -100px -20px;
